@@ -25,8 +25,6 @@ This dataset comprises resume data aggregated from a variety of online sources, 
   - `skills` (Technical proficiencies and soft skills)
   - `experience` (Detailed work history and career progression)
   - `job_role` (Current or targeted job positions)
-  - `location` (Geographic details when available)
-  - `contact_info` (Sensitive data redacted to protect privacy)
 
 ## Data Processing and Cleaning
 
