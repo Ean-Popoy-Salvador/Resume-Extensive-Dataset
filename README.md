@@ -21,10 +21,10 @@ This dataset comprises resume data aggregated from a variety of online sources, 
 - **Filename:** resume_dataset.csv
 - **Data Format:** Comma-separated values (CSV)
 - **Key Columns Include:**
-  - `education` (Academic degrees, certifications, and relevant training)
-  - `skills` (Technical proficiencies and soft skills)
-  - `experience` (Detailed work history and career progression)
-  - `job_role` (Current or targeted job positions)
+  - `education` 
+  - `skills` 
+  - `experience` 
+  - `job_role` 
 
 ## Data Processing and Cleaning
 
